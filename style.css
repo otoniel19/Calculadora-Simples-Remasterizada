@@ -1,0 +1,22 @@
+body {
+  background: url('res/download - 2021-08-06T221824.330.jpeg') no-repeat fixed;
+  background-size: cover;
+}
+.input {
+  border-radius: 15px;
+  border: none;
+  text-align: center;
+}
+#tipo {
+  border: none;
+  background: white;
+  border-radius: 10px;
+  font: bold;
+}
+.res {
+  background: white;
+  border-radius: 15px;
+  padding: 5px;
+  width: 250px;
+  text-align: left;
+}
